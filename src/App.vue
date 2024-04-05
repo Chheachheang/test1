@@ -19,7 +19,7 @@ router.push({path: "about",query:{id:"123",user:"hieeeeeeeeeee"}})
 </script>
 
 <template>
-  <!-- <h1>Hello</h1> -->
+  <h1>Hello yyyyyyyyyyyyyyyyyyyy</h1>
   
   <router-link to="/">Home</router-link>
 
